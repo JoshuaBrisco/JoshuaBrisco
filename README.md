@@ -5,7 +5,7 @@ I’m a Pharm.D-trained individual with a passion for coding and technology. I�
 👀 I'm interested in pharmacy, continuous learning, and technology, and I love solving problems.
 🌱 Currently, I’m learning Python to build my skills in coding and software development using the app Mimo.
 🤝 I’m open to collaborating on projects, especially those that bridge pharmacy and tech.
-📫 Feel free to reach out via email, jbrisco188@live.com.
+📫 Feel free to reach out via email, joshua.a.brisco@gmail.com.
 Let's connect!
 
 <!---
